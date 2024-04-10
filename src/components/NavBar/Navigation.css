@@ -1,0 +1,20 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 12%;
+}
+.logo{
+    scale: 1.2;
+    cursor: pointer;
+}
+.list{
+    display: flex;
+    gap: 15%;
+    padding-right: 5%;
+    font-size: large;
+    font-weight: 500;
+}
+.list div{
+    cursor: pointer;
+}

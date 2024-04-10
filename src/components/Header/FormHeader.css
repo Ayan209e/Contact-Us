@@ -1,0 +1,15 @@
+.container{
+    margin: 5% 13%;
+}
+.contact{
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 72px;
+}
+.desc{
+    width: 975px;
+    color: #5A5959;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
